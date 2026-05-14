@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stop-solving-the-same-bugs-4vfb8cnvu.vercel.app/sitemap.xml
